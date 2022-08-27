@@ -17,18 +17,18 @@ sass:
 
 # About/contact
 author:
-  name:              Jami Gibbs
+  name:              Luis Vespa
   url:               https://twitter.com/jamigibbs
-  email:             jami0821@gmail.com
+  email:             vespasoft@gmail.com
 
 # Custom vars
-version:             2.0.1
+version:             1.0.0
 github:
-  repo:              https://github.com/jamigibbs/portfolio
+  repo:              https://github.com/vespasoft/portfolio
 google_analytics:    UA-3363703-15
-twitter:             jamigibbs
-github:              jamigibbs
-dribbble:            jamigibbs
+twitter:             vespasoft
+github:              vespasoft
+dribbble:            vespasoft
 
 # Gems
 plugins:
